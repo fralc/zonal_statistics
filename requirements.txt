@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+ipykernel
+GDAL
+rasterio
+Rtree
+geopandas
+rasterstats
+python-geohash
+polygon_geohasher
+sqlalchemy
+psycopg2
+
+
